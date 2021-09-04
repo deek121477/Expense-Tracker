@@ -1,0 +1,25 @@
+.expenses-filter {
+  color: white;
+  padding: 0 4rem;
+}
+
+.expenses-filter__control {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+  margin: 5rem 0;
+}
+
+.expenses-filter label {
+  font-weight: bold;
+  margin-bottom: 1.0rem;
+}
+
+.expenses-filter select {
+  font-family: "Times New Roman", Times, serif;
+  padding: 0.8rem 6rem;
+  font-weight: bold;
+  position: right;
+  border-radius: 8px;
+}
